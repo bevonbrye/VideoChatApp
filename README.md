@@ -1,0 +1,2 @@
+# Video Chat App: 
+- Zoom has become increasingly a more essential portion to our day to day activity. This propelled me to learn more about the ins and outs of how the platform works which was motivation to create a clone!
