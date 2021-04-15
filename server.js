@@ -1,4 +1,4 @@
-// creates server 
+// create server 
 const express = require('express')
 // runs app function 
 const app = express(); 
